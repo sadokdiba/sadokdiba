@@ -6,9 +6,6 @@ Welcome to my GitHub! I’m a dedicated Software Engineer and Web Developer with
 - 🌱 I’m expanding my skill set with Docker, Kubernetes, and API development.
 - 🔭 I’m actively working on various projects, which you can explore in my repositories.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif" alt="Sadok's Portfolio" />
-</p>
 
 <h1 align="center">Hello, I'm <a href="https://sadokdiba.github.io/personal-portfolio/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Sadok Diba</a></h1>
 <h3 align="center">A passionate Software Engineer and Web Developer 🚀</h3>
