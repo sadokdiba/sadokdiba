@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m a dedicated Software Engineer and Web Developer with
 
 Right now, I’m focused on:
 
-- **Right now I am focused on building my webportfolio app using react.js where I will showcase my other project, watch out,it will be out soon!
+- Right now, I am focused on building my web portfolio app using react.js, where I will showcase my other project. Watch out; it will be out soon!
 - **Experimenting with AI** models to enhance the user experience.
 
 🚧 Keep an eye out, these will be live soon!
@@ -33,7 +33,10 @@ Right now, I’m focused on:
 
 ### 📈 GitHub Stats & Activity
 
-![Sadok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadokdiba&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=sadokdiba&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" >
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadokdiba&theme=github_dark&hide_border=true" alt="rakesh's github streak" width="48%" >
+
 
 ---
 
