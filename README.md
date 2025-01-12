@@ -6,16 +6,6 @@ Welcome to my GitHub! I’m a dedicated Software Engineer and Web Developer with
 - 🌱 I’m expanding my skill set with Docker, Kubernetes, and API development.
 - 🔭 I’m actively working on various projects, which you can explore in my repositories.
 
-
-<h1 align="center">Hello, I'm <a href="https://sadokdiba.github.io/personal-portfolio/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Sadok Diba</a></h1>
-<h3 align="center">A passionate Software Engineer and Web Developer 🚀</h3>
-
----
-
-🌱 **Currently diving into Java, Spring Boot**, and **AI** with a sprinkle of Docker & Kubernetes to keep things interesting!
-
-🎯 I'm all about building scalable, interactive web apps and integrating clean, efficient APIs.
-
 ---
 
 ### 👨‍💻 Skills & Tech Stack
@@ -43,13 +33,7 @@ Right now, I’m focused on:
 
 ### 📈 GitHub Stats & Activity
 
-<a href="https://sadokdiba.github.io/personal-portfolio/">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadokdiba&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Sadok's GitHub Stats" width="48%" />
-</a>
-
-<a href="https://sadokdiba.github.io/personal-portfolio/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadokdiba&theme=github_dark&hide_border=true" alt="Sadok's GitHub Streak" width="48%" />
-</a>
+![Sadok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadokdiba&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
 
 ---
 
@@ -64,9 +48,7 @@ Right now, I’m focused on:
 
 ### 📊 Most Used Languages
 
-<a href="https://sadokdiba.github.io/personal-portfolio/">
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadokdiba&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadokdiba&layout=compact&theme=radical)
 
 ---
 
