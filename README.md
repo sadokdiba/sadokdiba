@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a dedicated Software Engineer and Web Developer with
 
 ## Activity Chart
 
-![Sadok's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sadokdiba&theme=github&hide_border=true)
+![Sadok's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sadokdiba&theme=github)
 
 ## Profile Views
 
