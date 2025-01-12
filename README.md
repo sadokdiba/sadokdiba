@@ -45,7 +45,7 @@ Right now, I’m focused on:
 - 📩 **Email:** [sadok.diba@gmail.com](mailto:sadok.diba@gmail.com)
 - 🌍 **Portfolio:** [sadokdiba.github.io/personal-portfolio](https://sadokdiba.github.io/personal-portfolio/)
 - 🔗 **LinkedIn:** [Sadok Diba](https://www.linkedin.com/in/sadokdiba)
-- 🐦 **Twitter:** [@sadok_diba](https://twitter.com/sadokdiba)
+- 🐦 **Twitter:** [@sadokdiba](https://twitter.com/sadokdiba)
 
 ---
 
