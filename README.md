@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m a dedicated Software Engineer and Web Developer with
 
 Right now, I’m focused on:
 
-- Right now, I am focused on building my web portfolio app using react.js, where I will showcase my other project. Watch out; it will be out soon!
+- **Building** my web portfolio app using react.js, where I will showcase my other project. Watch out; it will be out soon!
 - **Experimenting with AI** models to enhance the user experience.
 
 🚧 Keep an eye out, these will be live soon!
