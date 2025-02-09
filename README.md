@@ -69,15 +69,12 @@ Right now, I’m focused on:
 
 ---
 
-<details>
-  <summary>🧑‍🔬 This Week's Coding Progress</summary>
+<summary>🧑‍🔬 Total Coding Time</summary>
 
-  [![Sadok's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadokdiba&theme=github_dark&hide_border=true)](https://wakatime.com/@sadokdiba)
-
-</details>
+[![wakatime](https://wakatime.com/badge/user/2fa902e6-a010-4d0d-ad6b-5d503ae6599f.svg)](https://wakatime.com/@2fa902e6-a010-4d0d-ad6b-5d503ae6599f)
 
 
-## 💖 Support Me
+##🎗️Support Me
 
 If you like my work, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/sadokdiba).
 
