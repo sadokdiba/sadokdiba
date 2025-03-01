@@ -68,10 +68,11 @@ Right now, I’m focused on:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sadokdiba.sadokdiba)
 
 ---
-
-<summary>🧑‍🔬 This week I did</summary>
-
-[![Coding's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadokdiba&theme=github_dark&hide_border=true)](https://wakatime.com/@sadokdiba)
+<details>
+  <summary>🧑‍🔬 This week I did</summary>
+  
+  [![Coding's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadokdiba&theme=github_dark&hide_border=true)](https://wakatime.com/@sadokdiba)
+</details>
 
 ---
 
