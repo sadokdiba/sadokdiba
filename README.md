@@ -1,88 +1,100 @@
-# Hi, I'm Sadok Diba 👋
+<a href="https://sadokdiba.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" alt="Hello, I’m Sadok Diba, software engineer in Canada" width="100%">
+  </picture>
+</a>
 
-Welcome to my GitHub! I’m a dedicated Software Engineer and Web Developer with 7 years of experience, having worked extensively in Engineering Support and IT infrastructure. Currently, I’m diving deeper into Java, Spring Boot, and exploring the fascinating world of AI.
+<p align="center">
+  <a href="https://sadokdiba.dev"><b>sadokdiba.dev</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sadokdiba">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sadok.diba@gmail.com">sadok.diba@gmail.com</a>
+</p>
 
-- 👨‍💻 My passion lies in creating innovative web applications.
-- 🌱 I’m expanding my skill set with Docker, Kubernetes, and API development.
-- 🔭 I’m actively working on various projects, which you can explore in my repositories.
+I’ve worked in application support and software engineering since 2017. I build applications, mobile apps and websites for businesses and churches, and I stay on to run them after launch, servers included. I work in English and French.
 
---- 
+Most of my code lives in private repositories, so here is some of what it runs.
 
-### 👨‍💻 Skills & Tech Stack
+### Selected work
 
-| Languages         | Frameworks/Libraries  | Tools & Platforms   |
-| ----------------- | --------------------- | ------------------- |
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092D45?style=for-the-badge&logo=django&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| ![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)| ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Helm](https://img.shields.io/badge/Helm-0f4c75?style=for-the-badge&logo=helm&logoColor=white) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/work/waved-sheaf.svg" alt="The Waved Sheaf on the web and on iPhone" width="100%">
+      <h4>The Waved Sheaf &nbsp;<sub>in progress</sub></h4>
+      <p>A study game built on William Branham’s own words, in English and French, with daily rounds and stories in 3D. Coming to the web, iPhone and Android.</p>
+      <sub>React Native · Expo · React Three Fiber · three.js · Node.js · PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://branhamsermons.org"><img src="assets/work/branham-sermons.svg" alt="Branham Sermons on the web and on iPhone" width="100%"></a>
+      <h4><a href="https://branhamsermons.org">Branham Sermons</a></h4>
+      <p>Search, read and listen to William Branham’s sermons in French and English, and ask questions in your own words. On iPhone, Android, Windows and the web.</p>
+      <p>
+        <a href="https://apps.apple.com/app/branham-sermons/id6815979276">App Store</a> ·
+        <a href="https://play.google.com/store/apps/details?id=com.branhamsermons.app">Google Play</a> ·
+        <a href="https://apps.microsoft.com/detail/9N97GL2STZ2N">Microsoft Store</a>
+      </p>
+      <sub>React Native · Expo · Next.js · Node.js · PostgreSQL · pgvector</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://songbookforbelievers.org"><img src="assets/work/songbook.svg" alt="Songbook for Believers app screens" width="100%"></a>
+      <h4><a href="https://songbookforbelievers.org">Songbook for Believers</a></h4>
+      <p>A free songbook app for congregations around the world. I contribute to the open-source project: accounts that sync across devices, a first-run guide and Portuguese songbooks.</p>
+      <p>
+        <a href="https://apps.apple.com/us/app/songbook-for-believers/id1667531237">App Store</a> ·
+        <a href="https://play.google.com/store/apps/details?id=com.ngonimujuru.songbook_for_believers">Google Play</a> ·
+        <a href="https://apps.microsoft.com/detail/9mwtsgshzrz8">Microsoft Store</a>
+      </p>
+      <sub>Flutter · Dart · Firebase · Cloud Firestore</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://neuronelab.com"><img src="assets/work/neuronelab.svg" alt="NeuroneLab voice assistant" width="100%"></a>
+      <h4><a href="https://neuronelab.com">NeuroneLab</a> voice assistant</h4>
+      <p>The bilingual assistant that answers NeuroneLab’s phone line day and night, books appointments and emails a summary after each call. Call it: +1&nbsp;438&#8209;901&#8209;4664.</p>
+      <sub>TypeScript · Node.js · Fastify · Twilio · Retell AI · Docker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mathgenesisacademy.com"><img src="assets/work/mathgenesis-academy.svg" alt="MathGenesis Academy on the web and on a phone" width="100%"></a>
+      <h4><a href="https://mathgenesisacademy.com">MathGenesis Academy</a></h4>
+      <p>Platform for a tutoring academy: a portal where students, parents and tutors sign in for timetables, assignments and feedback, and a public site with interactive lessons.</p>
+      <sub>Next.js · Cloudflare Workers · Hono · Drizzle · Firebase Auth</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://les4soeurs.ca"><img src="assets/work/les-4-soeurs.svg" alt="Les 4 Sœurs on the web and on a phone" width="100%"></a>
+      <h4><a href="https://les4soeurs.ca">Les 4 Sœurs</a></h4>
+      <p>Bilingual website for an African catering business in Montréal, Gatineau and Toronto, with menus, past events, a chat assistant and quote requests.</p>
+      <sub>Next.js · TypeScript · Tailwind CSS · Cloudflare Workers</sub>
+    </td>
+  </tr>
+</table>
 
----
+### Stack
 
-### 🚀 Current Projects
+<p><b>Apps and front end</b><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-apps-dark.svg">
+  <img src="assets/stack-apps-light.svg" alt="TypeScript, React and React Native, Next.js, Flutter, Dart, three.js, Tailwind CSS">
+</picture></p>
 
-Right now, I’m focused on:
+<p><b>Back end and data</b><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.svg">
+  <img src="assets/stack-backend-light.svg" alt="Node.js, Express, PostgreSQL, Redis, Firebase, Python, Java, Spring">
+</picture></p>
 
-- **Building** my web portfolio app using react.js, where I will showcase my other project. Watch out; it will be out soon!
-- **Experimenting with AI** models to enhance the user experience.
+<p><b>Servers and cloud</b><br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-servers-dark.svg">
+  <img src="assets/stack-servers-light.svg" alt="Linux, Debian, Ubuntu, Nginx, Bash, Docker, Kubernetes, GitHub Actions, Cloudflare, AWS">
+</picture><br>
+<sub>Linux servers I run myself: systemd, PM2, Nginx, Cloudflare Tunnel, SSH, firewalls and CI/CD with GitHub Actions.</sub></p>
 
-🚧 Keep an eye out, these will be live soon!
+<br>
 
----
-
-### 📈 GitHub Stats & Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=sadokdiba&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="sadok's github stats" width="48%" >
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadokdiba&theme=github_dark&hide_border=true" alt="sadok's github streak" width="48%" >
-
-
----
-
-### 🌐 Connect With Me
-
-- 📩 **Email:** [sadok.diba@gmail.com](mailto:sadok.diba@gmail.com)
-- 🌍 **Portfolio:** [sadokdiba.github.io/personal-portfolio](https://sadokdiba.github.io/personal-portfolio/)
-- 🔗 **LinkedIn:** [Sadok Diba](https://www.linkedin.com/in/sadokdiba)
-- 🐦 **Twitter:** [@sadokdiba](https://twitter.com/sadokdiba)
-
----
-
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadokdiba&layout=compact&theme=radical)
-
----
-
-### 💬 Fun Facts About Me
-
-- I’m an explorer at heart – I love learning new tech stacks and building things from scratch.
-- When I'm not coding, you can find me reading, hiking, or trying out new food spots.
-
----
-
-### 👀 Visitors
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sadokdiba.sadokdiba)
-
----
-<details>
-  <summary>🧑‍🔬 This week I did</summary>
-  
-  [![Coding's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadokdiba&theme=github_dark&hide_border=true)](https://wakatime.com/@sadokdiba)
-</details>
-
----
-
-<summary>🧑‍🔬 Total Coding Time</summary>
-
-[![wakatime](https://wakatime.com/badge/user/2fa902e6-a010-4d0d-ad6b-5d503ae6599f.svg)](https://wakatime.com/@2fa902e6-a010-4d0d-ad6b-5d503ae6599f)
-
----
-##🎗️Support Me
-
-If you like my work, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/sadokdiba).
-
-
+<p align="center"><sub>More work, and the story behind it, at <a href="https://sadokdiba.dev">sadokdiba.dev</a></sub></p>
